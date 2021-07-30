@@ -1,0 +1,41 @@
+h1{
+	background: #70a031a3;   /*Verde Pistacho*/
+	font-size: 125%;
+	text-align: center;
+}
+
+header{
+	background: #549abb;
+	text-align: center;
+
+}
+
+h1 {
+	color: #36134cd1;     /*Violeta Opaco*/
+}
+
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial, "Times New Roman", serif;
+    text-align: center;
+}
+span{
+	height: 50px;
+	width: 75px;
+	background: #b834e4;
+	/*display: Try block and inline block;
+	/*float*/
+}
+div{
+	height: 100px;
+	width: 45%;
+	background: #00ff00;
+	}
+p{
+	color: #450040;    /*Violeta*/
+	background: #00B7EA;   /*Celeste*/
+}
+footer{
+	background: #ff95f7;
+}
